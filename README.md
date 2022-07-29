@@ -3,7 +3,7 @@
 ### Hi there 👋, This is Sazzad Hossain.
 #### I am fullstack Software Engineer.
 
-Sazzad Hossain has been in software development for the last 2.5+ years and designing efficient, scalable, and secure technology solutions. Currently, he is working as a Software Engineer at VISER X Ltd.
+Sazzad Hossain has been in software development for the last 2.5+ years and designing efficient, scalable, and secure technology solutions. Currently, he is working as a Software Engineer at Revinr Ltd.
 
 Have worked with the following technologies:
 Languages:​ PHP, NodeJs JavaScript.
